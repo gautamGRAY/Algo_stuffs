@@ -4,9 +4,8 @@ import time
 
 # k represents step number and works like a program counter
 k = 6
-print('We will be executing 6th to 11th function of the main memory.')
-print('Users can issue an interrupt whenever they wish and as many times they wish\n')
-time.sleep(3)
+
+
 
 # initializing main memory and control stack
 main_memory = []
