@@ -1,12 +1,5 @@
 # The file can also be run on online platforms like google colab.
 
-import time
-
-# k represents step number and works like a program counter
-k = 6
-
-
-
 # initializing main memory and control stack
 main_memory = []
 control_stack = []
